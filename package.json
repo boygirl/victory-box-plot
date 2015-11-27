@@ -1,0 +1,19 @@
+{
+  "name": "victory-box-plot",
+  "version": "0.0.1",
+  "description": "box-plot component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-box-plot.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-box-plot/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-box-plot",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
